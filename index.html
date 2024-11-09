@@ -15,17 +15,14 @@
     
     <!-- Unity loader -->
     <script src="Build/UnityLoader.js"></script>
-    <script src="TemplateData/UnityProgress.js"></script>
     
-    <!-- Initialize Unity with progress handling -->
+    <!-- Initialize Unity -->
     <script>
       var gameInstance = null;
       window.onload = function() {
         gameInstance = UnityLoader.instantiate("gameContainer", "Build/Escape.json", {
-          onProgress: UnityProgress,
           Module: {
             onRuntimeInitialized: function() {
-              // Unity is ready
               console.log("Unity game initialized");
             }
           }
