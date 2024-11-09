@@ -1,0 +1,15 @@
+{
+"companyName": "Play Studio",
+"productName": "Escape",
+"productVersion": "1.0",
+"dataUrl": "Escape.data.unityweb",
+"wasmCodeUrl": "Escape.wasm.code.unityweb",
+"wasmFrameworkUrl": "Escape.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#23434F",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}

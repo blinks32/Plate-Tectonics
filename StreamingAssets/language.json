@@ -1,0 +1,56 @@
+{
+    "en": {
+        "welcome": "How To Play.",
+
+        "levelText1": "Earth is composed of four distinct layers. They are, the inner core, the outer core, the mantle and the crust.",
+        "levelText2": "Pangea, also spelled Pangaea, in early geologic time, a supercontinent that incorporated almost all the landmasses on Earth.",
+        "levelText3": "The theory of plate tectonics explains how the continents have moved apart from one initial continental mass called Pangea.",
+
+        "levelText4": "",
+
+        "levelText5": "There are three kinds of plate tectonic boundaries: divergent, convergent, and transform plate boundaries.",
+        "levelText6": "Seafloor spreading involves the formation of new ocean rock at a mid-ocean ridge that pushes older ocean rock away towards deep sea trenches.",
+        "levelText7": "Folding, faulting, and breaking are geologic processes due to tectonic plate movement that cause physical changes in rocks.",
+        "levelText8": "",
+
+        "levelText9": "A mid-ocean ridge is a divergent plate boundary where new ocean crust are formed through volcanic eruptions.",
+
+        "exp_0": "The Earth’s lithosphere, which includes the crust and upper mantle, is made up of a series of pieces, or tectonic plates, that move slowly over time.",
+        "exp_1": "The major tectonic plates are the Eurasian, African, Indo-Australian, Pacific, North American, and South American plates.",
+        "exp_2": "About 300 million years ago, Earth didn't have seven continents, but instead one massive supercontinent called Pangaea.",
+
+        "exp1_0": "Transform plate boundaries slide relative to one another. Convergent plate boundaries move towards each other. Divergent plate boundaries move away from each other.",
+        "exp1_1": "A mid-ocean ridge is a seafloor mountain system formed by plate tectonics. Ocean Trenches are where old ocean crust from one tectonic plate is pushed",
+        "exp1_2": "Fold mountains are created where two or more of Earth's tectonic plates are pushed together. A fault is a fracture or zone of fractures between two blocks of rock.",
+
+        "exp2_0": "As the plates separate, molten rock rises to the seafloor, producing enormous volcanic eruptions of basalt.",
+        "exp2_1": "The earths inner and outer core are extremely hot. The mantle is hot, soft and solid rock. The crust contains rock, soil and sediments.",
+        "exp2_2": "The earths inner and outer core are extremely hot. The mantle is hot, soft and solid rock. The crust contains rock, soil and sediments.",
+
+        "pop": "Yay!, We found",
+        "greatJob": "Great job!",
+        "next": "",
+
+        "story1": "Due to plate tectonics, the earth's surface has been ravaged by earthquakes, floods, and volcanic eruptions. Pass through the devastation and get to better grounds. Goodluck!",
+        
+        "start1": "Tap and drop items in the right place. click the 'i' for help.",
+        "start3": "",
+        "howToPlay": "This game is very easy to play. You're first introduced to a dodge game, where you dodge obstacles. Then a pick and drop game. Good Luck!",
+
+        "continue": "Continue",
+        "autoSave": "...Auto Saving Complete",
+        "gameover": "Try again. Click the 'help' button for assistance.",
+
+        "numberline": "Estimate the sum by rounding each number to the nearest whole number and then adding or subtracting.",
+
+        "explain_0": "Plate tectonics is a geological science that studies the movements and nature of the earth's crust.",
+        "explain_1": "Subduction occurs at a deep sea trench where two tectonic plates converge, forcing oceanic rock to sink into Earths mantle.",
+        "explain_2": "Continental drift describes one of the earliest ways geologists thought continents moved over time.",
+        "explain_3": "Earthquakes typically occur at transform and convergent tectonic plate boundaries.",
+        "explain_4": "The major tectonic plates are the Eurasian, African, Indo-Australian, Pacific, North American, and South American plates.",
+        "explain_5": "There are three kinds of plate tectonic boundaries: divergent, convergent, and transform plate boundaries"
+
+    }
+}
+
+
